@@ -8,7 +8,7 @@ This project provides a simple script to download all chapters of the book **"Op
 
 ```bash
 sudo apt install pdftk
-
-A directory called ALL_PDFs containing all the individual PDFs will be created, and the complete book Operating_Systems_Three_Easy_Pieces.pdf will be generated in the directory where you ran the command.
+```
+A directory called ALL_PDFs containing all the individual PDFs will be created, and the complete book Operating_Systems_Three_Easy_Pieces.pdf will be generated in the directory where you ran the command
 
 
